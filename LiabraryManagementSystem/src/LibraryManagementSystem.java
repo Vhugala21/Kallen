@@ -234,14 +234,12 @@ public class LibraryManagementSystem {
     
         public void checkoutBook(Book book) {
             System.out.println("Not implemented.");
-            // Implementation detail would go here
-            // This is just a placeholder message
+            
         }
     
         public void returnBook(Book book) {
             System.out.println("Not implemented.");
-            // Implementation detail would go here
-            // This is just a placeholder message
+    
         }
     }
 }
